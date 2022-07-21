@@ -11,5 +11,5 @@
   <a href="https://www.instagram.com/nathaniellyoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nathanielly23@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
 </div>
-<a href = "https://twitter.com/DeNathanielly"><img src="https://img.shields.io/twitter/url?style=social"</a>
+<a href = "https://twitter.com/DeNathanielly"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDeNathanielly"</a>
 </div>
